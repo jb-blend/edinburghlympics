@@ -1,6 +1,6 @@
 // Change to false when you replace the sample results with real results.
 window.EDINBURGHLYMPICS_CONFIG = {
-  demoMode: true,
+  demoMode: false,
   season: '2026',
   eventTagline: 'One city. Four teams. One winner.',
   refreshSeconds: 60,
