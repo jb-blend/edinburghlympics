@@ -1,7 +1,5 @@
-event_id,competitor_id,position,points
-warmup,alex-morgan,1,10
-warmup,blair-mackenzie,2,7
-warmup,rory-campbell,3,5
-warmup,drew-stewart,4,3
-warmup,jamie-fraser,5,2
-warmup,ash-patel,6,1
+﻿event_id,competitor_id,position,points,reason
+pool,neil,1,10,Singles champion
+pool,cameron,2,5,Singles runner-up
+pool,calum,3,3,Third-place playoff
+pool,jake,3,3,Third-place playoff
