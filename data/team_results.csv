@@ -1,0 +1,8 @@
+event_id,team_id,position,points,reason
+flags,we,1,1,Flag judging winner
+flags,leith,2,0,Second place
+flags,haiaag,3,0,Tied third
+flags,fab,3,0,Tied third
+pool,leith,,-1,five-player penalty
+pool,we,,-1,five-player penalty
+pool,haiaag,,-1,five-player penalty
