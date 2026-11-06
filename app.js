@@ -278,6 +278,7 @@ function getScores() {
   for(const row of getAwardEntries()){
     const person=byID.get(row.competitor_id);
     if(!person)continue;
+    if(row.event_id === 'darts') person.played++;
     const pts=Number(row.points);
     person.points+=pts;
     const teamID=String(row.team_id||person.team_id||'').trim();
@@ -542,7 +543,7 @@ function matchCard(rows,index){
     .map(r=>r.winner_id));
   const earned=winningPlayers.size;
   const winPointChip=earned?(isDoubles
-    ?`<span class="match-point-chip">${pointLabel(earned)} team points · +2 per winning player</span>`
+    ?`<span class="match-point-chip">${pointLabel(earned)} team points</span>`
     :`<span class="match-point-chip">${pointLabel(earned)} match point${earned===1?'':'s'}</span>`):'';
   const drawPointsPerSide=drawnMatch?rows.length*0.5:0;
   const drawUnit=isDoubles?'team':'player';
