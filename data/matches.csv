@@ -1,5 +1,5 @@
 event_id,match_id,round,competitor_1_id,competitor_2_id,score_1,score_2,winner_id,notes,format,points,team_1_id,team_2_id
-pool,pool-d01,Doubles Round 1,aidan,leigh,1,1,,,doubles,0.5,fab,haiaag
+pool,pool-d01,Doubles Round 1,aidan,leigh,1,1,DRAW,,doubles,0.5,fab,haiaag
 pool,pool-d02,Doubles Round 1,adi,neil,1,0,adi,,doubles,1,leith,we
 pool,pool-d03,Doubles Round 2,andrew,ben,1,0,andrew,,doubles,1,leith,fab
 pool,pool-d04,Doubles Round 2,mariam,mairi,0,1,mairi,,doubles,1,we,haiaag
@@ -17,7 +17,7 @@ pool,pool-d15,Doubles Round 8,james,neil,1,0,james,,doubles,1,leith,we
 pool,pool-d16,Doubles Round 8,sam,leigh,0,1,leigh,,doubles,1,fab,haiaag
 pool,pool-d17,Doubles Round 9,andrew,justine,1,0,andrew,,doubles,1,leith,haiaag
 pool,pool-d18,Doubles Round 9,ben,jake,0,1,jake,,doubles,1,fab,we
-pool,pool-d01,Doubles Round 1,sam,marc,1,1,,,doubles,0.5,fab,haiaag
+pool,pool-d01,Doubles Round 1,sam,marc,1,1,DRAW,,doubles,0.5,fab,haiaag
 pool,pool-d02,Doubles Round 1,calum,mariam,1,0,calum,,doubles,1,leith,we
 pool,pool-d03,Doubles Round 2,james,pelumi,1,0,james,,doubles,1,leith,fab
 pool,pool-d04,Doubles Round 2,jake,rob,0,1,rob,,doubles,1,we,haiaag

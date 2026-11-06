@@ -1,5 +1,21 @@
 ﻿event_id,competitor_id,position,points,reason
 pool,neil,1,10,Singles champion
 pool,cameron,2,5,Singles runner-up
-pool,calum,3,3,Third-place playoff
-pool,jake,3,3,Third-place playoff
+darts,aidan,1,31,Champion
+darts,pelumi,2,23,Runner-up
+darts,calum,3,17,Finalist
+darts,cameron,4,23,Finalist
+darts,mike,5,21,Finalist
+darts,andrew,6,11,Finalist
+darts,sam,7,10,Played darts
+darts,justine,8,7,Played darts
+darts,ben,9,7,Played darts
+darts,talia,10,6,Played darts
+darts,james,11,5,Played darts
+darts,luz,12,5,Played darts
+darts,leigh,13,4,Played darts
+darts,mairi,14,3,Played darts
+darts,mariam,15,2,Played darts
+darts,jake,16,2,Played darts
+darts,rhiannon,17,1,Played darts
+darts,marc,18,1,Played darts
